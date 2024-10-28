@@ -13,7 +13,7 @@ A scientific calculator app built with Flutter, offering a variety of basic and 
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/41ac79eb-b135-4f48-919b-99f7204bc529)
+![image](https://github.com/user-attachments/assets/1c0ae378-fc0d-4281-8b1c-e5ebbd617461)
 ![image2](https://github.com/user-attachments/assets/b05d6694-e1e8-4fe4-8b7e-41a7f1cdc014)
 
 ## Installation
@@ -47,15 +47,6 @@ To run this app locally:
 - **Toggle Radian/Degree Mode**: Switch between Rad and Deg modes for trigonometric calculations.
 - **Real-time Calculation**: View results instantly as you input values and operators.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. **Fork the project**
-2. **Create a feature branch** (`git checkout -b feature/NewFeature`)
-3. **Commit your changes** (`git commit -m 'Add new feature'`)
-4. **Push to the branch** (`git push origin feature/NewFeature`)
-5. **Open a pull request** for review
 
 ## Contact
 
@@ -65,11 +56,3 @@ Feel free to reach out with any questions, suggestions, or feedback.
 - LinkedIn: [linkedin.com/in/maliknomi0](https://www.linkedin.com/in/maliknomi0/)
 - WhatsApp: +92 370 0204207
 
----
-
-### Notes
-
-- **Screenshots Section**: Once you have screenshots of the app, add them to the "Screenshots" section to showcase the app's UI and functionality.
-- **Future Enhancements**: If you plan on adding new features, you can expand the "Features" section or add a "Roadmap" section.
-
-This `README.md` provides a clean, organized overview of your project, making it easy for users and contributors to understand and get started with the app. Let me know if any further adjustments are needed!
