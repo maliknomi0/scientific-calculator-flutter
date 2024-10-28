@@ -39,13 +39,6 @@ Real-time Calculation: See calculation results displayed instantly as you input 
 Contributing
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request. Here’s how you can contribute:
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/NewFeature)
-Commit your Changes (git commit -m 'Add some feature')
-Push to the Branch (git push origin feature/NewFeature)
-Open a Pull Request
-Contact
-If you have questions, suggestions, or just want to connect, feel free to reach out!
 
 GitHub: [github.com/maliknomi0](https://github.com/maliknomi0)
 LinkedIn: [linkedin.com/in/maliknomi0](https://www.linkedin.com/in/maliknomi0/)
